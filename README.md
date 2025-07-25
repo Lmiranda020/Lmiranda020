@@ -103,9 +103,9 @@ Por questões de confidencialidade, os repositórios principais são mantidos pr
 
 Atualmente em desenvolvimento no idioma **Inglês**, com o seguinte nível de proficiência:
 
-- 📖 **Leitura**: Intermediário — já consigo compreender textos técnicos e profissionais com certa facilidade  
-- 🎧 **Audição**: Básico — ainda estou desenvolvendo a habilidade de entender falas em velocidade natural  
-- ✍️ **Escrita**: Básico — consigo me comunicar, mas continuo praticando e evoluindo  
+- **Leitura**: Intermediário 
+- **Audição**: Básico 
+- **Escrita**: Básico
 
 ---
 ### 📊 GitHub Status
