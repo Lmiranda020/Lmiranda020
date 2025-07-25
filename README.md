@@ -94,17 +94,6 @@ Atualmente em desenvolvimento no idioma **Inglês**, com o seguinte nível de pr
 
 ---
 
-### 📚 Certificações
-
-- **Inglês** — Microcamp
-- **Power BI Aplicado aos Negócios** — Grupo Voitto 
-- **Nota Fiscal** — Desenvolve 
-- **Liderança na Gestão de Equipes** — Sebrae
-- **Comunicação e Oratória** — Conquer   
-- **Produtividade e Gestão de Tempo** — Conquer
-
----
-
 ### 🤝 Conecte-se comigo
 
 <p align="left">
