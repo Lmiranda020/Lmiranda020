@@ -6,7 +6,7 @@
 
 <h3 align="left">Sou formada em Administração de Empresas, apaixonada por tecnologia e fascinada por entender como tudo ao nosso redor funciona. Também valorizo muito a chance de ajudar as pessoas com o que faço — nada melhor do que ver uma solução fazendo a diferença no dia a dia.
 
-E, para fechar, adoro o ritmo acelerado da área de tecnologia. Aqui não tem tempo para ficar parada; estou sempre evoluindo e aprendendo algo novo.</h3>
+E, para fechar, adoro o ritmo acelerado da área de tecnologia. Aqui não tem tempo para ficar parada, estou sempre evoluindo e aprendendo algo novo.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lmiranda020&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
