@@ -20,29 +20,6 @@ E, para fechar, adoro o ritmo acelerado da área de tecnologia. Aqui não tem te
 
 ---
 
-### 💼 Experiência Profissional
-
-Por questões de confidencialidade, os repositórios principais são mantidos privados. Abaixo estão as principais funcionalidades desenvolvidas em cada projeto.
-
-**👉 [Ver detalhes dos projetos e funcionalidades](https://github.com/Lmiranda020/Lmiranda020/blob/main/portfolio-projetos.md)**
-
----
-
-- 🔭 Atualmente estou trabalhando em [relatorio_de_coleta_estatistica](https://github.com/Lmiranda020/relatorio_de_coleta_estatistica)
-- 📫 Como entrar em contato comigo: **larissadejesusmiranda@outlook.com**
-
----
-
-### 🌐 Idiomas
-
-Atualmente em desenvolvimento no idioma **Inglês**, com o seguinte nível de proficiência:
-
-- 📖 **Leitura**: Intermediário — já consigo compreender textos técnicos e profissionais com certa facilidade  
-- 🎧 **Audição**: Básico — ainda estou desenvolvendo a habilidade de entender falas em velocidade natural  
-- ✍️ **Escrita**: Básico — consigo me comunicar, mas continuo praticando e evoluindo  
-
----
-
 ### 🔧 Ferramentas e Tecnologias
 
 <p align="left">
@@ -109,7 +86,28 @@ Atualmente em desenvolvimento no idioma **Inglês**, com o seguinte nível de pr
 </p>
 
 ---
+### 💼 Experiência Profissional
 
+Por questões de confidencialidade, os repositórios principais são mantidos privados. Abaixo estão as principais funcionalidades desenvolvidas em cada projeto.
+
+**👉 [Ver detalhes dos projetos e funcionalidades](https://github.com/Lmiranda020/Lmiranda020/blob/main/portfolio-projetos.md)**
+
+---
+
+- 🔭 Atualmente estou trabalhando em [relatorio_de_coleta_estatistica](https://github.com/Lmiranda020/relatorio_de_coleta_estatistica)
+- 📫 Como entrar em contato comigo: **larissadejesusmiranda@outlook.com**
+
+---
+
+### 🌐 Idiomas
+
+Atualmente em desenvolvimento no idioma **Inglês**, com o seguinte nível de proficiência:
+
+- 📖 **Leitura**: Intermediário — já consigo compreender textos técnicos e profissionais com certa facilidade  
+- 🎧 **Audição**: Básico — ainda estou desenvolvendo a habilidade de entender falas em velocidade natural  
+- ✍️ **Escrita**: Básico — consigo me comunicar, mas continuo praticando e evoluindo  
+
+---
 ### 📊 GitHub Status
 
 <p>
