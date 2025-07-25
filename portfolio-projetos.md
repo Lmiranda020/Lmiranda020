@@ -28,7 +28,7 @@
 - Tratamento automático de dados incompletos
 - Padronização de nomes de fornecedores e unidades  
 - Organização de arquivos por unidade
-- Consolidação de dados para integração com sistema KPIH
+- Consolidação de dados para integração com outro sistema
 - Salvamento automático em estrutura de rede
 - Redução significativa de tarefas manuais
 
@@ -146,7 +146,7 @@
 - Limpeza e filtragem de dados
 - Cruzamento automatizado com VLOOKUP
 - Padronização de textos e criação de pastas por filial
-- Geração de layout compatível com o sistema KPIH
+- Geração de layout compatível com outro sistema
 
 ### Resultados Esperados
 | Métrica             | Meta          |
