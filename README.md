@@ -20,6 +20,14 @@ E, para fechar, adoro o ritmo acelerado da área de tecnologia. Aqui não tem te
 
 ---
 
+### 💼 Experiência Profissional
+
+Por questões de confidencialidade, os repositórios principais são mantidos privados. Abaixo estão as principais funcionalidades desenvolvidas em cada projeto.
+
+**👉 [Ver detalhes dos projetos e funcionalidades](https://github.com/Lmiranda020/Lmiranda020/blob/main/portfolio-projetos.md)**
+
+---
+
 - 🔭 Atualmente estou trabalhando em [relatorio_de_coleta_estatistica](https://github.com/Lmiranda020/relatorio_de_coleta_estatistica)
 - 📫 Como entrar em contato comigo: **larissadejesusmiranda@outlook.com**
 
