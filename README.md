@@ -46,11 +46,7 @@ E, para fechar, adoro o ritmo acelerado da área de tecnologia. Aqui não tem te
 </a>
 </a>
   <a href="https://www.diligent.com/products/acl-analytics" target="_blank" rel="noreferrer">
-  <img src="assets/ACL_resized.png" alt="ABBYY" width="80" height="30"/>
-</a>
-</a>
-  <a href="https://www.accountfy.com/" target="_blank" rel="noreferrer">
-  <img src="assets/Accountfy_resized.png" alt="ABBYY" width="80" height="30"/>
+  <img src="assets/ACL_resized.png" alt="ACL" width="80" height="30"/>
 </a>
 </p>
 
